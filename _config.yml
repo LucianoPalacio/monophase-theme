@@ -1,0 +1,16 @@
+title: Monophase
+tagline: A one-column minimal responsive Jekyll blog theme
+author:
+  name: Your Name
+  url: https://twitter.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+# Build Settings
+
+paginate: 2
+
+tags_path: /tags/
+categories_path: /categories/
